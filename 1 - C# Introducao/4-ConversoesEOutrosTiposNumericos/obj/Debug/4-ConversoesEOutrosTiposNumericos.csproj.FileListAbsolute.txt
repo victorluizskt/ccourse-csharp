@@ -1,0 +1,7 @@
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb

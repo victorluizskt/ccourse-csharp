@@ -1,0 +1,7 @@
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

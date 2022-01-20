@@ -1,0 +1,2 @@
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\7-Condicionais\obj\Debug\7-Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache

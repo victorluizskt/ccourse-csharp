@@ -1,0 +1,7 @@
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\bin\Debug\8-CondicionaisDois.exe.config
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\bin\Debug\8-CondicionaisDois.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\bin\Debug\8-CondicionaisDois.pdb
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.csproj.CoreCompileInputs.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\C# IDE\8-CondicionaisDois\obj\Debug\8-CondicionaisDois.pdb

@@ -1,0 +1,7 @@
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Users\DCPDTI\Documents\Course Alura C#\2 - C# POO\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
